@@ -56,5 +56,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <img src="https://github.com/Allan-njoroge/MechaGo/blob/master/frontend/sign%20in.png"/>
 <img src="https://github.com/Allan-njoroge/MechaGo/blob/master/frontend/Profile.png"/>
 <img src="https://github.com/Allan-njoroge/MechaGo/blob/master/frontend/Maps%20Integration.png"/>
-<img src="https://github.com/Allan-njoroge/MechaGo/blob/master/frontend/ServiceProviderDashboard.js"/>
+<img src=""/>
 Thank you for using AutoConnect! We hope our app helps make your automotive service experience smoother and more convenient.

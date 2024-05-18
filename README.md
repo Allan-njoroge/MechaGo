@@ -21,6 +21,7 @@ Welcome to MechaGo, the all-in-one solution for automotive owners to seamlessly 
 - Notifications: Receive updates and reminders about your bookings and service needs.
 - Payment Integration: Secure payment options for all transactions within the app.
 - Offline Access: Use a USSD shortcode to request services when not connected to the internet.
+- Google maps Api - to help clients find the nearest service provider and directions
 
 
 Open the app and follow the on-screen instructions to set up your account.
@@ -35,6 +36,7 @@ Open the app and follow the on-screen instructions to set up your account.
 # Navigation
 - Home Screen: Quick access to popular services and your recent activities.
 - Search: Find specific services or providers using keywords.
+- Google maps APIs - to find locations
 - Bookings: View and manage your upcoming and past bookings.
 - Profile: Update your personal and vehicle information.
 - Offline Access
@@ -43,6 +45,7 @@ Open the app and follow the on-screen instructions to set up your account.
 ## How it Works
 * Client
   Once you have an account, when a service is needed the client opens the app and requests for the service and they are connected to an available servide provider of the specified   serivice who is able to help them meet their need.
+  Clients also will have access to google maps locater, where they can use it to locate a service provider near them
   
 * Serivice Provider
   On request of a service from a client, the available provider is able to accept the service and satisfy the clients needs.

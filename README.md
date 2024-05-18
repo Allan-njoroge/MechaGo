@@ -4,6 +4,7 @@ Welcome to MechaGo, the all-in-one solution for automotive owners to seamlessly 
 
 ## Table of Contents
 * Features
+* How it works
 * Installation
 * Usage
 * Offline Access
@@ -23,8 +24,6 @@ Welcome to MechaGo, the all-in-one solution for automotive owners to seamlessly 
 
 
 Open the app and follow the on-screen instructions to set up your account.
-
-
 # Getting Started
 - Sign Up / Log In: Create an account or log in if you already have one.
 - Set Up Your Profile: Add your vehicle details to get personalized service recommendations.
@@ -40,6 +39,13 @@ Open the app and follow the on-screen instructions to set up your account.
 - Profile: Update your personal and vehicle information.
 - Offline Access
 - If you are not connected to the internet, you can still request services using a USSD shortcode. Simply dial a USSD on your mobile phone and follow the prompts to access various services such as mechanics, tow trucks, and petrol stations. This ensures you always have access to essential automotive services, even when offline.
+
+## How it Works
+* Client
+  Once you have an account, when a service is needed the client opens the app and requests for the service and they are connected to an available servide provider of the specified   serivice who is able to help them meet their need.
+  
+* Serivice Provider
+  On request of a service from a client, the available provider is able to accept the service and satisfy the clients needs.
 
 
 # License

@@ -6,7 +6,7 @@ exports.authenticate = (req, res, next) => {
     return res.status(401).json({ message: 'Authorization token is required' });
   }
   try {
-    const decodedToken = jwt.verify(token, 'your_secret_key');
+    const decodedToken = jwt.verify(token, '');
     req.userId = decodedToken.userId;
     next();
   } catch (error) {

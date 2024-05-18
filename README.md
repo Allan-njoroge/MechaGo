@@ -1,6 +1,6 @@
 ## MechaGo
 
-Welcome to AutoConnect, the all-in-one solution for automotive owners to seamlessly connect with mechanics, garages, spare parts sellers, car washes, tow trucks, and petrol stations. This README provides an overview of the app, its features, and how to get started.
+Welcome to MechaGo, the all-in-one solution for automotive owners to seamlessly connect with mechanics, garages, spare parts sellers, car washes, tow trucks, and petrol stations. This README provides an overview of the app, its features, and how to get started.
 
 ## Table of Contents
 * Features

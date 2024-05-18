@@ -51,8 +51,5 @@ Open the app and follow the on-screen instructions to set up your account.
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#Screenshots
-
-
 
 Thank you for using AutoConnect! We hope our app helps make your automotive service experience smoother and more convenient.
